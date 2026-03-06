@@ -2,7 +2,7 @@
 const channels = [
     { id: 'ZVURQLXZtIc', name: 'Como surgiu o Excel?' },
     { id: 'yCRUWtDcrJQ', name: '10 Dicas e Truques para Excel?' },
-    { id: 'X4RLqvl0Ch8', name: ' Primeiros Passos no Excel' }
+    { id: 'X4RLqvl0Ch8', name: 'Primeiros Passos no Excel' }
     
 ];
 
