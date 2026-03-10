@@ -2,8 +2,16 @@
 const channels = [
     { id: 'ZVURQLXZtIc', name: 'Como surgiu o Excel?' },
     { id: 'yCRUWtDcrJQ', name: '10 Dicas e Truques para Excel?' },
-    { id: 'X4RLqvl0Ch8', name: 'Primeiros Passos no Excel' }
-    
+    { id: 'X4RLqvl0Ch8', name: 'Primeiros Passos no Excel' },
+    { id: '4dBE45hiDz8', name: 'Manipulando Arquivos' },
+    { id: 'ZPQIm6_0Z5A', name: 'Selecionando Dados' },
+    { id: 'nM3GqVDfREI', name: 'Formatando Planilhas' },
+    { id: 'JF8lit7wrrM', name: 'Dicas para Formatação de Dados' },
+    { id: '8mV30b60YYQ', name: 'Classificação de Dados' },
+    { id: '_-2deLFAJeM', name: 'Fórmulas Básicas' },
+    { id: 'boUzkJJNOPI', name: 'Funções do Excel (Parte 1)' },
+    { id: 'jpuYGqeL7Ig', name: 'Funções do Excel (Parte 2)' },
+    { id: 'LArhLXDKqNg', name: 'Formatação Condicional' }
 ];
 
 // Estado atual
